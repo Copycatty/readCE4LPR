@@ -4,7 +4,6 @@ function [data, refpos] = readCE4LPR(path)
 % Each column of the science data contains 2048 samples, with a sample interval of 0.3125ns.
 % The xposition, yposition and zposition of reference ponit are based on Landing-site Regional Coordinate System, with coordinate center representing CE4 Lander.
 % The x axis points to east and the y axis points to north and the z axis points to zenith.
-% 
 
     scidata = fopen(path,'r','b'); %open science data file
     
