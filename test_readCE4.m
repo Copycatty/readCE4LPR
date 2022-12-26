@@ -21,7 +21,7 @@ figure, imagesc(A), colormap gray
 figure, plot(X, Y); 
 
 
-%% gain according to the propogation of radar waves, coarse result
+%% gain according to the propogation of radar waves, coarse result.
 dt = 0.3125e-3; % μs
 er = 3;
 dh = 3e8*dt*1e-6/sqrt(er)/2;
