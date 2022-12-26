@@ -8,8 +8,11 @@ The scipt is about reading the LPR 2B raw data. Pre-porcessing of the data and m
 Relevent papers can be find in:
 
 https://doi.org/10.1029/2022GL101413
+
 https://doi.org/10.1029/2020GL088680
+
 https://doi.org/10.1029/2020JE006564
+
 ...
 
 The Chang'E‐4 Lunar Penetrating Radar data collected during 2019 and 2020 are available from the Data Publishing and Information
